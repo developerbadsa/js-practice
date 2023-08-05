@@ -12,4 +12,4 @@ function fcl(n){
       console.log(result)
 }
 
-fcl(5)
+fcl()
