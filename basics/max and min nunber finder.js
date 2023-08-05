@@ -23,5 +23,12 @@ function findmin(a, b, c){
             console.log('c is small than b a');
       }
 }
-findmax(a, b, c);
-findmin(a, b, c);
+// findmax(a, b, c);
+// findmin(a, b, c);
+
+
+// min and max finder with Math
+
+// math max
+console.log(Math.max(a,b,c))
+console.log(Math.min(a,b,c))
